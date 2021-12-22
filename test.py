@@ -1,1 +1,1 @@
-s=2
+print('Madapalli')
